@@ -1,0 +1,1657 @@
+<?php
+
+include('config/header.php');
+
+?>
+  
+  <!-- End Header -->
+<section id="main.css/wnp-activities">
+  <div class="container">
+
+    <!-- En-tête de section -->
+    <div class="row wnp-section-header">
+      <div class="col-lg-8">
+        <span class="wnp-section-tag">Nos Actions sur le Terrain</span>
+        <h2 class="wnp-section-title">Activités &amp; Interventions<br>WNP-RDC 2023</h2>
+        <p class="wnp-section-subtitle">
+          Chaque jour, Women Needed Peace apporte une réponse concrète aux besoins des femmes et familles déplacées en République Démocratique du Congo.
+        </p>
+      </div>
+    </div>
+
+    <!-- Carousel -->
+    <div id="wnp-carousel-main">
+
+      <!-- ========== SLIDE 1 ========== -->
+      <div class="wnp-slide active">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">01 / 10</span>
+          <img src="assets/img/img/sliderimage-1.JPG" alt="Distribution de kits de dignité à Kalehe, SUD-KIVU">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 14 avril 2023
+          </span>
+          <h3 class="wnp-content-title">Distribution de kits IEHK et kits de dignité auprès de 1 000 femmes déplacées internes</h3>
+          <p class="wnp-content-quote">
+            "WNP a distribué des kits inter-agence IEHK et kits de dignité à 1 000 femmes déplacées fuyant le conflit M23, vivant dans des sites spontanés et familles d'accueil dans la zone de santé de Kalehe."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Les bénéficiaires ont été identifiées selon les critères définis lors de l'évaluation rapide de février 2023. Chaque kit de dignité comprenait : savons médicaux, seau, sous-vêtements, serviettes hygiéniques, brosse à dents, peigne, dentifrice et serviettes réutilisables.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 2 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">02 / 10</span>
+          <img src="assets/img/img/sliderimage-2.JPG" alt="Assistance en abris d'urgence aux victimes des inondations">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Assistance en abris d'urgence et kits AME aux sinistrés des inondations</h3>
+          <p class="wnp-content-quote">
+            "1 500 personnes réparties en 250 ménages, victimes des inondations et coulées de terre, ont bénéficié de 250 abris d'urgence et de 250 kits d'articles ménagers essentiels (AME)."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Ce projet d'urgence a permis d'apporter une réponse immédiate aux familles sinistrées par les catastrophes naturelles dans le territoire de Kalehe, en leur fournissant un abri temporaire et les matériaux essentiels pour la vie quotidienne.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 3 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">03 / 10</span>
+          <img src="assets/img/img/sliderimage-3.JPG" alt="Renforcement des capacités sur le VBG à Bushushu">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Bushushu &amp; Muhongoza · 2023
+          </span>
+          <h3 class="wnp-content-title">Formation des agents de santé sur le VBG et dotation de kits PEP</h3>
+          <p class="wnp-content-quote">
+            "Renforcement des capacités des agents de santé et relais communautaires sur le VBG, avec dotation de kits PEP au centre de santé de Bushushu et Muhongoza dans la zone de santé de Kalehe."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Deux infirmiers titulaires et trois relais communautaires ont été formés sur le signalement du VBG et le circuit de référencement à Bushushu. Les kits PEP permettent la prise en charge prophylactique post-exposition aux violences sexuelles pour les déplacés internes en familles d'accueil.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 4 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">04 / 10</span>
+          <img src="assets/img/img/sliderimage-5.JPG" alt="Sensibilisation à l'hygiène au site AMANI, Bushushu">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Site AMANI, Bushushu · 2023
+          </span>
+          <h3 class="wnp-content-title">Sensibilisation à la promotion de l'hygiène auprès de 1 500 sinistrés</h3>
+          <p class="wnp-content-quote">
+            "1 500 personnes réparties en 250 ménages ont bénéficié d'une sensibilisation sur la promotion de l'hygiène, avec accent sur l'utilisation correcte des latrines et douches d'urgence."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Cette activité de prévention sanitaire au site spontané AMANI de Bushushu a mis un accent particulier sur l'utilisation correcte et l'entretien des latrines et douches d'urgence, ainsi que sur la bonne gestion des déchets ménagers.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 5 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">05 / 10</span>
+          <img src="assets/img/img/sliderimage-5.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Distribution de kits IEHK et kits de dignité — Phase 2</h3>
+          <p class="wnp-content-quote">
+            "WNP poursuit ses distributions de kits inter-agence IEHK et kits de dignité auprès des femmes déplacées fuyant la guerre du M23 dans la zone de santé de Kalehe."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            L'identification des femmes et des filles vulnérables bénéficiaires du projet a été faite selon les critères définis sur la base des données de l'évaluation rapide effectuée par WNP-RDC. Ce projet vient en réponse aux besoins identifiés auprès des déplacées internes dans les sites spontanés et familles d'accueil.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 6 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">06 / 10</span>
+          <img src="assets/img/img/sliderimage-6.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Suivi et accompagnement des femmes déplacées dans les familles d'accueil</h3>
+          <p class="wnp-content-quote">
+            "WNP assure un suivi régulier des femmes bénéficiaires des kits de dignité et IEHK, afin de mesurer l'impact des interventions et identifier de nouveaux besoins dans la zone de santé de Kalehe."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Les équipes de WNP-RDC effectuent des visites de suivi auprès des femmes déplacées vivant dans les familles d'accueil et les sites spontanés. Cette présence continue permet d'ajuster les interventions aux besoins réels et évolutifs des bénéficiaires.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 7 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">07 / 10</span>
+          <img src="assets/img/img/sliderimage-7.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Évaluation rapide des besoins des populations déplacées</h3>
+          <p class="wnp-content-quote">
+            "WNP-RDC mène des évaluations rapides sur le terrain pour identifier avec précision les besoins des femmes et filles déplacées, base essentielle de toute intervention humanitaire efficace."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Ces évaluations de terrain constituent le fondement de chaque projet WNP. Elles permettent de cibler les bénéficiaires les plus vulnérables selon des critères objectifs et de concevoir des réponses adaptées aux réalités locales de chaque zone d'intervention.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 8 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">08 / 10</span>
+          <img src="assets/img/img/sliderimage-8.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Protection et soutien psychosocial aux femmes survivantes de violences</h3>
+          <p class="wnp-content-quote">
+            "WNP-RDC offre un soutien psychosocial aux femmes survivantes de violences basées sur le genre, en coordination avec les structures de santé locales dans le territoire de Kalehe."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            En complément des distributions matérielles, WNP assure un accompagnement psychologique aux femmes survivantes. Ce soutien, dispensé par des agents formés, contribue à la reconstruction de la dignité et de la résilience des femmes affectées par les conflits.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 9 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">09 / 10</span>
+          <img src="assets/img/img/sliderimage-9.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Coordination humanitaire et partenariat avec les acteurs locaux</h3>
+          <p class="wnp-content-quote">
+            "WNP-RDC coordonne ses interventions avec les autorités sanitaires, les organisations partenaires et les comités communautaires pour maximiser l'impact de chaque action humanitaire."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            La coordination multi-acteurs est au cœur de l'approche de WNP. En travaillant en étroite collaboration avec les structures locales, WNP garantit que les interventions s'inscrivent dans une réponse humanitaire cohérente et durable pour les populations affectées.
+          </p>
+        </div>
+      </div>
+
+      <!-- ========== SLIDE 10 ========== -->
+      <div class="wnp-slide">
+        <div class="wnp-slide-image">
+          <span class="wnp-slide-number">10 / 10</span>
+          <img src="assets/img/img/sliderimage-10.JPG" alt="Activité WNP-RDC SUD-KIVU 2023">
+        </div>
+        <div class="wnp-slide-content">
+          <span class="wnp-content-label">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            SUD-KIVU · Kalehe · 2023
+          </span>
+          <h3 class="wnp-content-title">Bilan des activités WNP-RDC 2023 : engagement pour la paix et la dignité</h3>
+          <p class="wnp-content-quote">
+            "À travers ses multiples interventions en 2023, WNP-RDC a touché des milliers de femmes et familles déplacées, affirmant son engagement pour la paix, la dignité et la protection des plus vulnérables."
+          </p>
+          <div class="wnp-content-divider"></div>
+          <p class="wnp-content-body">
+            Les activités menées en 2023 témoignent de la capacité de WNP-RDC à répondre rapidement et efficacement aux crises humanitaires. La distribution de kits, les formations sanitaires et la sensibilisation communautaire forment ensemble une réponse intégrée au service des femmes du SUD-KIVU.
+          </p>
+        </div>
+      </div>
+
+    </div><!-- fin #wnp-carousel-main -->
+
+    <!-- Barre de navigation -->
+    <div class="wnp-nav-bar">
+      <div class="wnp-dots" role="tablist" aria-label="Navigation des slides" id="wnp-dots-container">
+        <!-- Générés par JS -->
+      </div>
+
+      <span class="wnp-nav-counter">
+        <strong id="wnp-current">1</strong> / <span id="wnp-total">10</span>
+      </span>
+
+      <div class="wnp-nav-btns">
+        <button class="wnp-nav-btn" id="wnp-prev" aria-label="Slide précédent" title="Précédent">
+          &#8592;
+        </button>
+        <button class="wnp-nav-btn" id="wnp-next" aria-label="Slide suivant" title="Suivant">
+          &#8594;
+        </button>
+      </div>
+    </div>
+
+  </div><!-- fin .container -->
+</section>
+
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section ======= -->
+   
+    
+    <!-- End Featured Services Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <section id="about" class="about py-5">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold">Qui sommes-nous</h2>
+      <hr class="mx-auto" style="width: 50px; height: 3px; background-color: var(--color-primary); opacity: 1;">
+    </div>
+
+    <div class="row g-4 align-items-center">
+      <div class="col-lg-7">
+        <h3 class="text-navy mb-3">WOMEN NEED PEACE (WNP)</h3>
+        <p class="lead text-muted">
+          Une ONG féminine, apolitique et non confessionnelle engagée pour le développement et l'aide humanitaire en République Démocratique du Congo.
+        </p>
+        <p style="text-align: justify;">
+          Créée au Sud-Kivu le <strong>25 Avril 2015</strong>, WNP déploie ses actions dans plusieurs provinces : Sud-Kivu, Nord-Kivu, Maniema et Ituri. Notre structure administrative est ancrée à <strong>Bukavu</strong>, avec un siège social à Kabare, nous permettant une proximité réelle avec les communautés que nous servons.
+        </p>
+        <div class="row mt-4">
+          <div class="col-md-6">
+            <div class="d-flex align-items-center mb-3">
+              <i class="bi bi-check-circle-fill text-primary me-2"></i>
+              <span>Droit Congolais & Humanitaire</span>
+            </div>
+            <div class="d-flex align-items-center">
+              <i class="bi bi-check-circle-fill text-primary me-2"></i>
+              <span>Présence Multiprovinces</span>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="d-flex align-items-center mb-3">
+              <i class="bi bi-check-circle-fill text-primary me-2"></i>
+              <span>Expertise Genre & Développement</span>
+            </div>
+            <div class="d-flex align-items-center">
+              <i class="bi bi-check-circle-fill text-primary me-2"></i>
+              <span>Mobilité Internationale</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+     
+       <div class="col-lg-5">
+          <div class="about-img shadow rounded overflow-hidden p-3 bg-white" data-aos="zoom-in" data-aos-delay="200">
+              <img src="assets/img/img/ObjectifODD.png" alt="Alignement WNP-RDC sur les ODD Nations Unies" class="img-fluid">
+               <div class="mt-3 text-center">
+                 <small class="text-muted italic">Nos actions en RDC s'alignent sur les Objectifs de Développement Durable (ODD).</small>
+               </div>
+          </div>
+       </div>
+  </div>
+</section>
+
+<section id="featured-services" class="featured-services section-bg py-5" style="background-color: #f8f9fa;">
+  <div class="container" data-aos="fade-up">
+    <div class="row gy-4">
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="100">
+        <div class="service-item card border-0 p-4 shadow-sm w-100 text-center transition">
+          <div class="icon-box mb-3 mx-auto">
+            <i class="bi bi-eye-fill text-primary fs-1"></i>
+          </div>
+          <h4 class="fw-bold"><a href="#" class="stretched-link text-decoration-none">Notre Vision</a></h4>
+          <p class="small text-muted">Promouvoir le bien-être des femmes, des jeunes et des enfants sur le plan national et international.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
+        <div class="service-item card border-0 p-4 shadow-sm w-100 text-center transition">
+          <div class="icon-box mb-3 mx-auto">
+            <i class="bi bi-crosshair text-danger fs-1"></i>
+          </div>
+          <h4 class="fw-bold"><a href="#" class="stretched-link text-decoration-none">Notre Mission</a></h4>
+          <p class="small text-muted">Mettre en œuvre des solutions durables aux défis identifiés pour la satisfaction de la population.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="300">
+        <div class="service-item card border-0 p-4 shadow-sm w-100 text-center transition">
+          <div class="icon-box mb-3 mx-auto">
+            <i class="bi bi-people-fill text-success fs-1"></i>
+          </div>
+          <h4 class="fw-bold"><a href="#" class="stretched-link text-decoration-none">Objectif Global</a></h4>
+          <p class="small text-muted">Contribuer à l'amélioration concrète des conditions de vie quotidienne de toute la population.</p>
+        </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
+        <div class="service-item card border-0 p-4 shadow-sm w-100 text-center transition">
+          <div class="icon-box mb-3 mx-auto">
+            <i class="bi bi-camera-video-fill text-warning fs-1"></i>
+          </div>
+          <h4 class="fw-bold"><a href="#" class="stretched-link text-decoration-none">Reportage</a></h4>
+          <p class="small text-muted">Documenter et diffuser nos actions pour assurer un impact visible et une transparence totale.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+        <!-- a revoir -->
+        <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-5">
+            <div class="about-img">
+              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <h3 class="pt-0 pt-lg-5">Nous intervenons aux peuples autoctone le plus oublies dans le fin font de l'afrique</h3>
+
+            <!-- Tabs -->
+            <ul class="nav nav-pills mb-3">
+              <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Est du Congo</a></li>
+              <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">Maniema</a></li>
+              <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">katanga</a></li>
+            </ul><!-- End Tabs -->
+
+            <!-- Tab Content -->
+            <div class="tab-content">
+
+              <div class="tab-pane fade show active" id="tab1">
+
+                <p class="fst-italic">Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’international</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes..</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+              </div><!-- End Tab 1 Content -->
+
+              <div class="tab-pane fade show" id="tab2">
+
+                <p class="fst-italic">Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+
+              </div><!-- End Tab 2 Content -->
+
+              <div class="tab-pane fade show" id="tab3">
+
+                <p class="fst-italic">Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Promouvoir le bien être des femmes, des jeunes</h4>
+                </div>
+                <p>Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.Promouvoir le bien être des femmes, des jeunes et des enfants sur le plan national qu’internationalPromouvoir le bien être des femmes, des jeune.</p>
+
+              </div><!-- End Tab 3 Content -->
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients section-bg py-5">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold text-navy">Nos Partenaires & Appuis</h2>
+      <hr class="mx-auto" style="width: 60px; height: 3px; background-color: var(--color-primary); opacity: 1;">
+      <p class="mt-3 text-muted mx-auto" style="max-width: 800px;">
+        La réalisation de nos missions humanitaires et de développement en RD Congo est rendue possible grâce à la collaboration étroite avec nos partenaires nationaux et internationaux. Ensemble, nous œuvrons pour le bien-être des femmes, des jeunes et des enfants.
+      </p>
+    </div>
+
+    <div class="clients-slider swiper shadow-sm rounded bg-white p-4">
+      <div class="swiper-wrapper align-items-center">
+        
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire01.png" class="img-fluid client-logo" alt="ONU Femmes">
+        </div>
+
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire02.JPG" class="img-fluid client-logo" alt="Partenaire 2">
+        </div>
+
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire03.JPG" class="img-fluid client-logo" alt="Partenaire 3">
+        </div>
+
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire04.PNG" class="img-fluid client-logo" alt="Partenaire 4">
+        </div>
+
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire05.JPG" class="img-fluid client-logo" alt="Partenaire 5">
+        </div>
+
+        <div class="swiper-slide text-center">
+          <img src="assets/img/clients/partenaire06.png" class="img-fluid client-logo" alt="Partenaire 6">
+        </div>
+
+      </div>
+      <div class="swiper-pagination mt-4"></div>
+    </div>
+
+  </div>
+</section>
+    
+    <!-- End Clients Section -->
+
+    <!-- ======= Call To Action Section ======= -->
+    <section id="cta" class="cta">
+  <div class="container" data-aos="zoom-out">
+
+    <div class="row g-5 align-items-center">
+
+      <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
+        <h3>WNP-RDC lance un <em>appel</em> pour la protection de l'environnement</h3>
+        <p>Plus de 1200 arbres sont plantés chaque année grâce à l'activisme de nos membres. Aimeriez-vous rejoindre ceux qui protègent notre écosystème ?</p>
+        <a class="cta-btn btn-green-env align-self-start" href="#">Devenir membre</a>
+      </div>
+
+      <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
+        <div class="img shadow-lg rounded">
+          <img src="assets/img/img/environment.jpg" alt="Environnement RDC" class="img-fluid rounded">
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+    <!-- ======= On Focus Section ======= --> 
+
+    <section id="onfocus" class="onfocus">
+      <div class="container-fluid p-0" data-aos="fade-up">
+    <div class="row g-0">
+      
+      <div class="col-lg-6 video-play position-relative">
+        <a href="#" class="glightbox play-btn"></a>
+      </div>
+
+      <div class="col-lg-6 wnp-dark-blue-bg">
+        <div class="content d-flex flex-column justify-content-center h-100 p-5">
+          <h3 class="text-white fw-bold mb-4">Promouvoir le bien-être des femmes, des jeunes et des enfants</h3>
+          
+          <p class="text-white-50 fst-italic mb-4">
+            Notre engagement dépasse les frontières pour offrir un avenir digne et sécurisé aux communautés les plus vulnérables en RD Congo.
+          </p>
+          
+          <ul class="list-unstyled">
+            <li class="d-flex align-items-start mb-3">
+              <i class="bi bi-patch-check-fill text-info me-3 mt-1"></i>
+              <span class="text-white">Protection et promotion des droits fondamentaux de la femme.</span>
+            </li>
+            <li class="d-flex align-items-start mb-3">
+              <i class="bi bi-patch-check-fill text-info me-3 mt-1"></i>
+              <span class="text-white">Autonomisation économique des jeunes par l'entrepreneuriat.</span>
+            </li>
+            <li class="d-flex align-items-start mb-3">
+              <i class="bi bi-patch-check-fill text-info me-3 mt-1"></i>
+              <span class="text-white">Accès à l'éducation et aux soins de santé pour les enfants en zones de conflit.</span>
+            </li>
+          </ul>
+          
+          <div class="mt-4">
+            <a href="#" class="read-more-custom">
+              <span>En savoir plus</span>
+              <i class="bi bi-arrow-right-short"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+    <!-- ======= Features Section ======= a revoir --> 
+     
+<!--
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
+
+        <div class="tab-content">
+
+          <div class="tab-pane active show" id="tab-1">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="100">
+                <h3>Mindset</h3>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, des jeune.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, des jeune.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.</li>
+                </ul>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                </p>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
+                <img src="assets/img/features-1.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 1 
+
+          <div class="tab-pane" id="tab-2">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1">
+                <h3>plan strategique</h3>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                </p>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes, des jeune.qu’internationalPromouvoir le bien être des femmes, des jeune.
+                qu’internationalPromouvoir le bien être des femmes, des jeune.
+                
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes,</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes,</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, neque dolor voluptate nisi sed.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                </ul>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center">
+                <img src="assets/img/features-2.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 2 
+
+          <div class="tab-pane" id="tab-3">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1">
+                <h3>Paraitre</h3>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, consequat.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, velit.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes qui a. Ipsum neque dolor voluptate nisi sed
+                </ul>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center">
+                <img src="assets/img/features-3.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 3 
+
+          <div class="tab-pane" id="tab-4">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1">
+                <h3>Notre mission</h3>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes, qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes,.</li>
+                  <li><i class="bi bi-check-circle-fill"></i>qu’internationalPromouvoir le bien être des femmes,</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, Duis aute irure dolor in reprehenderit in voluptate tridetaqu’internationalPromouvoir le bien être des femmes,</li>
+                </ul>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center">
+                <img src="assets/img/features-4.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 4 
+
+          <div class="tab-pane" id="tab-5">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1">
+                <h3>Adictions-un</h3>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes. velit.</li>
+                  <li><i class="bi bi-check-circle-fill"></i>  ltu’internationalPromouvoir le bien être des femmes.. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                </ul>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center">
+                <img src="assets/img/features-5.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 5 
+
+          <div class="tab-pane" id="tab-6">
+            <div class="row gy-4">
+              <div class="col-lg-8 order-2 order-lg-1">
+                <h3>References</h3>
+                <p>
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes, qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <p class="fst-italic">
+                qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,
+                qu’internationalPromouvoir le bien être des femmes,
+                </p>
+                <ul>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes, consequat.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> Duis qu’internationalPromouvoir le bien être des femmes, velit.</li>
+                  <li><i class="bi bi-check-circle-fill"></i> qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,</li>
+                </ul>
+              </div>
+              <div class="col-lg-4 order-1 order-lg-2 text-center">
+                <img src="assets/img/features-6.svg" alt="" class="img-fluid">
+              </div>
+            </div>
+          </div> End Tab Content 6 
+
+        </div>
+
+      </div>
+    </section> End Features Section --> 
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold">Nos Domaines d'Intervention</h2>
+      <p class="text-muted mx-auto" style="max-width: 700px;">
+        WNP-RDC déploie une expertise multisectorielle pour répondre aux défis humanitaires et de développement en République Démocratique du Congo.
+      </p>
+    </div>
+
+    <div class="row gy-5">
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-1.jpg" class="img-fluid" alt="Protection">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-shield-check"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Protection</h3>
+            </a>
+            <p>Veiller à la sécurité des plus vulnérables, lutter contre les VBG et assurer la protection de l'enfance en zones de conflit.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-2.jpg" class="img-fluid" alt="Education">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-book"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Éducation</h3>
+            </a>
+            <p>Faciliter l'accès à une éducation inclusive et de qualité pour les enfants et jeunes déplacés ou issus de familles démunies.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-3.jpg" class="img-fluid" alt="Sécurité Alimentaire">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-basket"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Sécurité Alimentaire</h3>
+            </a>
+            <p>Soutenir la résilience agricole et assurer une assistance alimentaire d'urgence pour stabiliser les moyens de subsistance.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-4.jpg" class="img-fluid" alt="Santé">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-heart-pulse"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Santé & Nutrition</h3>
+            </a>
+            <p>Améliorer l'accès aux soins de santé primaires et lutter contre la malnutrition chronique chez les femmes et les enfants.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-5.jpg" class="img-fluid" alt="EASH">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-droplet-half"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Eau, Hygiène & Assainissement</h3>
+            </a>
+            <p>Construire des infrastructures hydrauliques et promouvoir les bonnes pratiques d'hygiène pour prévenir les maladies hydriques.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
+        <div class="service-item shadow-sm">
+          <div class="img">
+            <img src="assets/img/services-6.jpg" class="img-fluid" alt="Logistique">
+          </div>
+          <div class="details position-relative">
+            <div class="icon">
+              <i class="bi bi-truck"></i>
+            </div>
+            <a href="#" class="stretched-link">
+              <h3>Logistique Humanitaire</h3>
+            </a>
+            <p>Assurer la gestion efficace de la chaîne d'approvisionnement pour acheminer l'aide humanitaire dans les zones d'accès difficile.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+    
+    <!-- End Services Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <!-- <section id="testimonials" class="testimonials">
+      <div class="container" data-aos="fade-up">
+
+        <div class="testimonials-slider swiper">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Jacqueline Bagabo</h3>
+                <h4>Coordinatrice &amp; Founder</h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div> End testimonial item 
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <h3>Sara bagabo</h3>
+                <h4>Programm Manager</h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div> End testimonial item 
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <h3>John</h3>
+                <h4>logisticienh4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div> End testimonial item 
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <h3>espoir kampunge</h3>
+                <h4>informaticien</h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div> End testimonial item 
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <h3>John Larson</h3>
+                <h4>Entrepreneur</h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+                <p>
+                  <i class="bi bi-quote quote-icon-left"></i>
+                  qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.
+                  <i class="bi bi-quote quote-icon-right"></i>
+                </p>
+              </div>
+            </div> End testimonial item 
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section>End Testimonials Section -->
+
+    <!-- ======= Pricing Section ======= -->
+     
+    <!-- <section id="pricing" class="pricing">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Activités previ</h2>
+          <p>qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes,qu’internationalPromouvoir le bien être des femmes.</p>
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="pricing-item">
+
+              <div class="pricing-header">
+                <h3>3 premier mois</h3>
+                <h4><sup>$</sup>0<span> / month</span></h4> 
+              </div>
+
+              <ul>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li class="bi bi-dot"><i class="bi bi-x"></i> <span>qu’internationalPromouvoir</span></li>
+                <li class="na"><i class="bi bi-x"></i> <span>qu’internationalPromouvoir</span></li>
+              </ul>
+
+              <div class="text-center mt-auto">
+                <a href="#" class="buy-btn">Buy Now</a> 
+              </div>
+
+            </div>
+          </div> End Pricing Item 
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
+            <div class="pricing-item featured">
+
+              <div class="pricing-header">
+              <h3>3 premier mois</h3>
+                 <h4><sup>$</sup>49<span> / month</span></h4> 
+              </div>
+
+              <ul>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</spa>
+                </li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</spa>
+                </li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+              </ul>
+
+              <div class="text-center mt-auto">
+                  <a href="#" class="buy-btn">Buy Now</a> 
+              </div>
+
+            </div>
+          </div> End Pricing Item 
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
+            <div class="pricing-item">
+
+              <div class="pricing-header">
+                <h3>3 premier mois</h3>
+                 <h4><sup>$</sup>49<span> / month</span></h4> 
+              </div>
+
+              <ul>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+                <li><i class="bi bi-dot"></i> <span>qu’internationalPromouvoir</span></li>
+              </ul>
+
+              <div class="text-center mt-auto">
+                  <a href="#" class="buy-btn">Buy Now</a> 
+              </div>
+
+            </div>
+          </div>  End Pricing Item 
+
+        </div>
+
+      </div>
+    </section>End Pricing Section -->
+
+    <!-- ======= F.A.Q Section ======= -->
+
+    <!--
+    <section id="faq" class="faq">
+      <div class="container-fluid" data-aos="fade-up">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
+
+            <div class="content px-xl-5">
+              <h3>Questions frequement <strong>pose</strong></h3>
+              <p>
+              qu’internationalPromouvoir qu’internationalPromouvoir qu’internationalPromouvoir qu’internationalPromouvoir qu’internationalPromouvoir qu’internationalPromouvoir
+              </p>
+            </div>
+
+            <div class="accordion accordion-flush px-xl-5" id="faqlist">
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="200">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    qu’internationalPromouvoir, qu’internationalPromouvoir ? 
+                  </button>
+                </h3>
+                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                  qu’internationalPromouvoir, qu’internationalPromouvoir qu’internationalPromouvoir, qu’internationalPromouvoir ? 
+                  </div>
+                </div>
+              </div> # Faq item
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="300">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    qu’internationalPromouvoir, qu’internationalPromouvoir ? 
+                  </button>
+                </h3>
+                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                  qu’internationalPromouvoir, qu’internationalPromouvoir. I  qu’internationalPromouvoir, qu’internationalPromouvoir,   qu’internationalPromouvoir, qu’internationalPromouvoir   qu’internationalPromouvoir, qu’internationalPromouvoir ? 
+                  </div>
+                </div>
+              </div> # Faq item
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="400">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    qu’internationalPromouvoir, qu’internationalPromouvoir ? 
+                  </button>
+                </h3>
+                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                  bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir 
+                  </div>
+                </div>
+              </div> # Faq item
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="500">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir ?
+                  </button>
+                </h3>
+                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir
+                  </div>
+                </div>
+              </div> # Faq item
+
+              <div class="accordion-item" data-aos="fade-up" data-aos-delay="600">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                    <i class="bi bi-question-circle question-icon"></i>
+                    bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir ?
+                  </button>
+                </h3>
+                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                  bi qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir
+                  </div>
+                </div>
+              </div> # Faq item
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/faq.jpg");'>&nbsp;</div>
+        </div>
+
+      </div>
+    </section> End F.A.Q Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    
+    <section id="portfolio" class="portfolio" data-aos="fade-up">
+
+  <div class="container">
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold">Album de nos activités</h2>
+      <p class="text-muted">Découvrez en images l'impact de nos actions sur le terrain pour le bien-être des communautés.</p>
+    </div>
+  </div>
+
+  <div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
+
+    <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
+
+      <ul class="portfolio-flters">
+        <li data-filter="*" class="filter-active">Tout l'album</li>
+        <li data-filter=".filter-app">Interventions Santé</li>
+        <li data-filter=".filter-product">Actions Janvier</li>
+        <li data-filter=".filter-branding">Actions Février</li>
+        <li data-filter=".filter-books">Actions Mars</li>
+      </ul><div class="row g-0 portfolio-container">
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Santé & Nutrition</h4>
+            <p>Soutien aux cliniques mobiles en zone rurale.</p>
+            <a href="assets/img/portfolio/app-1.jpg" title="Action Santé" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>1 Janvier</h4>
+            <p>Célébration et partage avec les enfants orphelins.</p>
+            <a href="assets/img/portfolio/product-1.jpg" title="Janvier - Partage" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>4 Février</h4>
+            <p>Notre intervention du 4 février 2025 à Kabare.</p>
+            <a href="assets/img/portfolio/branding-1.jpg" title="Kabare - Février" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>7 Mars</h4>
+            <p>Formation des femmes aux métiers de l'artisanat.</p>
+            <a href="assets/img/portfolio/books-1.jpg" title="Formation Mars" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Protection</h4>
+            <p>Sensibilisation sur les droits de la femme.</p>
+            <a href="assets/img/portfolio/app-2.jpg" title="Sensibilisation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Distribution</h4>
+            <p>Aide humanitaire d'urgence - Janvier.</p>
+            <a href="assets/img/portfolio/product-2.jpg" title="Aide humanitaire" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Atelier</h4>
+            <p>Réunion de planification avec les chefs locaux.</p>
+            <a href="assets/img/portfolio/branding-2.jpg" title="Atelier Février" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Éducation</h4>
+            <p>Soutien scolaire pour les déplacés.</p>
+            <a href="assets/img/portfolio/books-2.jpg" title="Education Mars" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
+          <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Assainissement</h4>
+            <p>Accès à l'eau potable dans le territoire de Kalehe.</p>
+            <a href="assets/img/portfolio/app-3.jpg" title="EASH" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
+          <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Missions</h4>
+            <p>Évaluation des besoins multisectoriels.</p>
+            <a href="assets/img/portfolio/product-3.jpg" title="Mission terrain" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
+          <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Logistique</h4>
+            <p>Transport de l'aide alimentaire par camions.</p>
+            <a href="assets/img/portfolio/branding-3.jpg" title="Logistique" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
+          <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
+          <div class="portfolio-info">
+            <h4>Clôture</h4>
+            <p>Remise des certificats de fin de formation.</p>
+            <a href="assets/img/portfolio/books-3.jpg" title="Cérémonie" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+            <a href="portfolio-details.html" title="Plus de détails" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          </div>
+        </div>
+
+      </div></div>
+  </div>
+</section>
+    <!-- End Portfolio Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold">Notre Équipe</h2>
+      <p class="text-muted">L'expertise et l'engagement au service de l'humanitaire.</p>
+    </div>
+
+    <div class="swiper team-slider">
+      <div class="swiper-wrapper">
+
+        <div class="swiper-slide">
+          <div class="team-member">
+            <div class="member-img-container">
+              <img src="assets/img/team/team-1.png" class="img-fluid" alt="MURHOLA MIHIGO">
+            </div>
+            <div class="member-info">
+              <div class="social-links">
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+              <h4>MURHOLA MIHIGO</h4>
+              <span>PCA</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="team-member">
+            <div class="member-img-container">
+              <img src="assets/img/team/team-1.png" class="img-fluid" alt="JACQUELINE BAGABO">
+            </div>
+            <div class="member-info">
+              <div class="social-links">
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+              <h4>Mme JACQUELINE BAGABO</h4>
+              <span>Directrice Exécutive</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="team-member">
+            <div class="member-img-container">
+              <img src="assets/img/team/team-1.png" class="img-fluid" alt="SAMWELI BACHIRUKENGE">
+            </div>
+            <div class="member-info">
+              <div class="social-links">
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+              <h4>M. SAMWELI BACHIRUKENGE</h4>
+              <span>ADMI. FIN</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="swiper-slide">
+          <div class="team-member">
+            <div class="member-img-container">
+              <img src="assets/img/team/team-1.png" class="img-fluid" alt="TUPENDANE MATEMBERA">
+            </div>
+            <div class="member-info">
+              <div class="social-links">
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+              <h4>TUPENDANE MATEMBERA J.</h4>
+              <span>PROGRAMME</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <div class="swiper-pagination mt-4"></div>
+    </div>
+
+  </div>
+</section>
+    
+    <!-- End Team Section -->
+
+    <!-- ======= Recent Blog Posts Section ======= -->
+   <!-- <section id="recent-blog-posts" class="recent-blog-posts">
+
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Blog</h2>
+          <p>Recent posts pour Blog</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="post-box">
+              <div class="post-img"><img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Lundi, Decembre 12</span>
+                <span class="post-author"> / jacqueline</span>
+              </div>
+              <h3 class="post-title">qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir,</h3>
+              <p>qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir qui magni est...</p>
+              <a href="blog-details.html" class="readmore stretched-link"><span>lire plus..s</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="post-box">
+              <div class="post-img"><img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Vendredi, Septembre 05</span>
+                <span class="post-author"> / jacqueline</span>
+              </div>
+              <h3 class="post-title">qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir,</h3>
+              <p>qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir bi bi-dot qu’internationalPromouvoir, qu’internationalPromouvoir doloribus...</p>
+              <a href="blog-details.html" class="readmore stretched-link"><span>lire plus..</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
+            <div class="post-box">
+              <div class="post-img"><img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt=""></div>
+              <div class="meta">
+                <span class="post-date">Samedi, Janvier 27</span>
+                <span class="post-author"> / jacqueline b</span>
+              </div>
+              <h3 class="post-title">qu’internationalPromouvoirqu’internation </h3>
+              <p>qu’internationalPromouvoirqu’internationalPromouvoirqu’internationalPromouvoirqu’internationalPromouvoirqu’internationalPromouvoirqu’internationalPromouvoir dicta nihil...</p>
+              <a href="blog-details.html" class="readmore stretched-link"><span>lire plus..</span><i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section> End Recent Blog Posts Section -->
+
+    <!-- ======= Contact Section ======= -->
+   <section id="contact" class="contact">
+  <div class="container" data-aos="fade-up">
+    <div class="section-header text-center mb-5">
+      <h2 class="fw-bold">Contactez-nous</h2>
+      <p>Notre équipe est à votre écoute pour toute demande d'information ou collaboration.</p>
+    </div>
+  </div>
+
+  <div class="map-container mb-5" data-aos="fade-up">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.4533486337295!2d28.8576!3d-2.5118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMsKwMzAnNDIuNSJTIDI4wrA1MScyNy40IkU!5e0!3m2!1sfr!2scd!4v1620000000000!5m2!1sfr!2scd" 
+      width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  </div>
+
+  <div class="container">
+    <div class="row gy-5">
+
+      <div class="col-lg-4">
+        <div class="info-wrapper shadow-sm rounded p-4">
+          <h3 class="mb-4">Nos coordonnées</h3>
+
+          <div class="contact-item mb-4">
+            <div class="d-flex">
+              <i class="bi bi-geo-alt icon-box"></i>
+              <div>
+                <h4>Localisation :</h4>
+                <p>N°413, Av. P.E. LUMUMBA, Bukavu, RD Congo</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-item mb-4">
+            <div class="d-flex">
+              <i class="bi bi-envelope icon-box"></i>
+              <div>
+                <h4>Email :</h4>
+                <p>women.needed.peace@gmail.com</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="contact-item mb-4">
+            <div class="d-flex">
+              <i class="bi bi-phone icon-box"></i>
+              <div>
+                <h4>Téléphone :</h4>
+                <p>+243 978 662 594</p>
+              </div>
+            </div>
+          </div>
+
+          <hr class="my-4">
+
+          <div class="social-block text-center">
+            <h4 class="mb-3">Suivez-nous</h4>
+            <div class="social-links-row">
+              <a href="#" class="social-link-item"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="social-link-item"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="social-link-item"><i class="bi bi-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-8">
+        <form action="#" method="post" class="php-email-form shadow-sm p-4 rounded bg-white">
+          <div class="row">
+            <div class="col-md-6 form-group mb-3">
+              <input type="text" name="name" class="form-control" placeholder="Votre Nom" required>
+            </div>
+            <div class="col-md-6 form-group mb-3">
+              <input type="email" name="email" class="form-control" placeholder="Votre Email" required>
+            </div>
+          </div>
+          <div class="form-group mb-3">
+            <input type="text" name="subject" class="form-control" placeholder="Sujet" required>
+          </div>
+          <div class="form-group mb-4">
+            <textarea name="message" class="form-control" rows="6" placeholder="Votre Message" required></textarea>
+          </div>
+          <div class="text-center">
+            <button type="submit" class="btn-submit-contact">Envoyer le message</button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+
+  <?php
+
+include('config/footer.php');
+
+?>
+
+        <!-- a revoir -->
+<script>
+  (function () {
+    const slides      = document.querySelectorAll('.wnp-slide');
+    const dotsWrap    = document.getElementById('wnp-dots-container');
+    const currentEl   = document.getElementById('wnp-current');
+    const totalEl     = document.getElementById('wnp-total');
+    const btnPrev     = document.getElementById('wnp-prev');
+    const btnNext     = document.getElementById('wnp-next');
+    const total       = slides.length;
+    let current       = 0;
+    let autoTimer     = null;
+
+    totalEl.textContent = total;
+
+    /* Créer les dots */
+    slides.forEach(function (_, i) {
+      const btn = document.createElement('button');
+      btn.className   = 'wnp-dot' + (i === 0 ? ' active' : '');
+      btn.setAttribute('role', 'tab');
+      btn.setAttribute('aria-label', 'Aller au slide ' + (i + 1));
+      btn.addEventListener('click', function () { goTo(i); resetAuto(); });
+      dotsWrap.appendChild(btn);
+    });
+
+    /* Aller à un slide */
+    function goTo(n) {
+      slides[current].classList.remove('active');
+      dotsWrap.children[current].classList.remove('active');
+      current = (n + total) % total;
+      slides[current].classList.add('active');
+      dotsWrap.children[current].classList.add('active');
+      currentEl.textContent = current + 1;
+    }
+
+    /* Auto-play toutes les 6 secondes */
+    function startAuto() {
+      autoTimer = setInterval(function () {
+        goTo(current + 1);
+      }, 6000);
+    }
+
+    function resetAuto() {
+      clearInterval(autoTimer);
+      startAuto();
+    }
+
+    /* Boutons nav */
+    btnPrev.addEventListener('click', function () { goTo(current - 1); resetAuto(); });
+    btnNext.addEventListener('click', function () { goTo(current + 1); resetAuto(); });
+
+    /* Navigation clavier */
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowLeft')  { goTo(current - 1); resetAuto(); }
+      if (e.key === 'ArrowRight') { goTo(current + 1); resetAuto(); }
+    });
+
+    /* Swipe tactile mobile */
+    var touchStartX = 0;
+    var carousel = document.getElementById('wnp-carousel-main');
+    carousel.addEventListener('touchstart', function (e) {
+      touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+    carousel.addEventListener('touchend', function (e) {
+      var diff = touchStartX - e.changedTouches[0].screenX;
+      if (Math.abs(diff) > 50) {
+        goTo(diff > 0 ? current + 1 : current - 1);
+        resetAuto();
+      }
+    }, { passive: true });
+
+    /* Démarrer l'auto-play */
+    startAuto();
+  })();
+</script>
+
+
+<!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
