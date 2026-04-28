@@ -33,26 +33,26 @@
   --color-default-rgb: 26, 31, 36;
 
   /* Defult links color */
-  --color-links: #0ea2bd;
-  --color-links-hover: #1ec3e0;
+  --color-links: #4A90E2;       /* Bleu WNP */
+  --color-links-hover: #2D5A27; /* Vert WNP */
 
   /* Primay colors */
-  --color-primary: #0ea2bd;
-  --color-primary-light: #1ec3e0;
-  --color-primary-dark: #0189a1;
+  --color-primary: #4A90E2;
+  --color-primary-light: #67a3e8;
+  --color-primary-dark: #357ABD;
 
-  --color-primary-rgb: 14, 162, 189;
-  --color-primary-light-rgb: 30, 195, 224;
-  --color-primary-dark-rgb: 1, 137, 161;
+  --color-primary-rgb: 74, 144, 226;
+  --color-primary-light-rgb: 103, 163, 232;
+  --color-primary-dark-rgb: 53, 122, 189;
 
   /* Secondary colors */
-  --color-secondary: #485664;
-  --color-secondary-light: #8f9fae;
-  --color-secondary-dark: #3a4753;
+ --color-secondary: #2D5A27;
+  --color-secondary-light: #447a3d;
+  --color-secondary-dark: #1e3d1a;
 
-  --color-secondary-rgb: 72, 86, 100;
-  --color-secondary-light-rgb: 143, 159, 174;
-  --color-secondary-dark-rgb: 58, 71, 83;
+  --color-secondary-rgb: 45, 90, 39;
+  --color-secondary-light-rgb: 68, 122, 61;
+  --color-secondary-dark-rgb: 30, 61, 26;
 
   /* General colors */
   --color-blue: #0d6efd;

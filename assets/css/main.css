@@ -3434,150 +3434,155 @@ section {
     }
   }
 
-  /* === IMAGE (côté gauche) === */
-  .wnp-slide-image {
-    flex: 0 0 50%;
-    position: relative;
-    min-height: 480px;
-    overflow: hidden;
-  }
+  /* === IMAGE (côté gauche) === ==============================*/
+ /* === IMAGE (côté gauche) === */
+.wnp-slide-image {
+  flex: 0 0 50%;
+  position: relative;
+  min-height: 480px;
+  overflow: hidden;
+}
 
-  .wnp-slide-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.6s ease;
-  }
+.wnp-slide-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.6s ease;
+}
 
-  .wnp-slide.active:hover .wnp-slide-image img {
-    transform: scale(1.03);
-  }
+.wnp-slide.active:hover .wnp-slide-image img {
+  transform: scale(1.03);
+}
 
-  /* Badge numéro de slide sur l'image */
-  .wnp-slide-number {
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    background: rgba(255, 255, 255, 0.95);
-    color: rgb(6, 6, 92);
-    font-size: 12px;
-    font-weight: 700;
-    padding: 5px 12px;
-    border-radius: 50px;
-    letter-spacing: 0.05em;
-    backdrop-filter: blur(4px);
-  }
+/* Badge numéro de slide sur l'image */
+.wnp-slide-number {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--color-primary); /* Bleu Parapluie WNP */
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 12px;
+  border-radius: 50px;
+  letter-spacing: 0.05em;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
 
-  /* Overlay dégradé bas de l'image */
-  .wnp-slide-image::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 40%;
-    background: linear-gradient(to top, rgba(6, 6, 92, 0.3), transparent);
-    pointer-events: none;
-  }
+/* Overlay dégradé bas de l'image */
+.wnp-slide-image::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40%;
+  /* Dégradé utilisant votre vert secondaire pour la profondeur */
+  background: linear-gradient(to top, rgba(var(--color-secondary-rgb), 0.2), transparent);
+  pointer-events: none;
+}
 
-  /* === CONTENU (côté droit) === */
-  .wnp-slide-content {
-    flex: 1;
-    background: rgb(6, 6, 92);
-    padding: 48px 44px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    position: relative;
-    overflow: hidden;
-  }
+/* === CONTENU (côté droit) === */
+.wnp-slide-content {
+  flex: 1;
+  background: #fdfdfd; /* Fond presque blanc, très propre */
+  padding: 48px 44px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #eee;
+  border-left: none;
+}
 
-  /* Motif décoratif dans le fond du contenu */
-  .wnp-slide-content::before {
-    content: "";
-    position: absolute;
-    bottom: -60px;
-    right: -60px;
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    border: 40px solid rgba(255, 255, 255, 0.05);
-    pointer-events: none;
-  }
+/* Motif décoratif (Cercles) - Adaptés pour fond clair */
+.wnp-slide-content::before {
+  content: "";
+  position: absolute;
+  bottom: -60px;
+  right: -60px;
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  border: 40px solid rgba(var(--color-secondary-rgb), 0.03); /* Vert très très discret */
+  pointer-events: none;
+}
 
-  .wnp-slide-content::after {
-    content: "";
-    position: absolute;
-    bottom: 30px;
-    right: 30px;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 20px solid rgba(255, 255, 255, 0.04);
-    pointer-events: none;
-  }
+.wnp-slide-content::after {
+  content: "";
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 20px solid rgba(var(--color-primary-rgb), 0.03); /* Bleu très très discret */
+  pointer-events: none;
+}
 
-  /* Étiquette lieu/date */
-  .wnp-content-label {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    background: rgba(255, 255, 255, 0.12);
-    color: rgba(255, 255, 255, 0.85);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    padding: 5px 14px;
-    border-radius: 50px;
-    margin-bottom: 20px;
-    width: fit-content;
-  }
+/* Étiquette lieu/date */
+.wnp-content-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(var(--color-primary-rgb), 0.1); /* Fond bleu clair WNP */
+  color: var(--color-primary); /* Texte bleu WNP */
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  width: fit-content;
+}
 
-  .wnp-content-label svg {
-    width: 12px;
-    height: 12px;
-    opacity: 0.8;
-  }
+.wnp-content-label svg {
+  width: 12px;
+  height: 12px;
+  stroke: var(--color-primary);
+}
 
-  /* Titre principal */
-  .wnp-content-title {
-    font-size: clamp(17px, 1.8vw, 21px);
-    font-weight: 700;
-    color: #fff;
-    line-height: 1.4;
-    margin-bottom: 20px;
-  }
+/* Titre principal */
+.wnp-content-title {
+  font-size: clamp(17px, 1.8vw, 21px);
+  font-weight: 700;
+  color: var(--color-secondary); /* Vert Arbre WNP */
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
 
-  /* Citation mise en valeur */
-  .wnp-content-quote {
-    border-left: 3px solid rgba(255, 255, 255, 0.4);
-    padding-left: 16px;
-    margin-bottom: 20px;
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 14px;
-    font-style: italic;
-    line-height: 1.7;
-  }
+/* Citation mise en valeur */
+.wnp-content-quote {
+  border-left: 3px solid var(--color-primary); /* Barre bleue WNP */
+  padding-left: 16px;
+  margin-bottom: 20px;
+  color: #555; /* Gris foncé pour lecture facile */
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.7;
+}
 
-  /* Texte descriptif */
-  .wnp-content-body {
-    color: rgba(255, 255, 255, 0.65);
-    font-size: 13.5px;
-    line-height: 1.75;
-    margin: 0;
-  }
+/* Texte descriptif */
+.wnp-content-body {
+  color: #666; /* Gris moyen */
+  font-size: 13.5px;
+  line-height: 1.75;
+  margin: 0;
+}
 
-  /* Séparateur */
-  .wnp-content-divider {
-    width: 40px;
-    height: 2px;
-    background: rgba(255, 255, 255, 0.25);
-    margin: 20px 0;
-  }
+/* Séparateur */
+.wnp-content-divider {
+  width: 40px;
+  height: 3px;
+  background: var(--color-primary); /* Ligne bleue WNP */
+  margin: 20px 0;
+}
 
-  /* === NAVIGATION === */
+  /* === NAVIGATION ================================================== */
   .wnp-nav-bar {
     display: flex;
     align-items: center;
@@ -4136,4 +4141,78 @@ section {
 
 .btn-submit-contact:hover {
   background: #c31d2e;
+}
+
+/*--------------------------------------------------------------
+# Adaptation Couleurs Section Activités WNP
+--------------------------------------------------------------*/
+
+/* Le petit tag au-dessus du titre principal */
+.wnp-section-tag {
+  background-color: rgba(var(--color-primary-rgb), 0.1); /* Bleu très clair */
+  color: var(--color-primary); /* Bleu WNP */
+  padding: 5px 15px;
+  border-radius: 50px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+/* Le titre de la section */
+.wnp-section-title {
+  color: var(--color-secondary); /* Vert Arbre WNP */
+  margin-top: 15px;
+}
+
+/* Le petit label avec l'icône de localisation */
+.wnp-content-label {
+  color: var(--color-primary); /* Bleu Parapluie */
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wnp-content-label svg {
+  width: 18px;
+  stroke: var(--color-primary);
+}
+
+/* Le titre de chaque activité (Slide) */
+.wnp-content-title {
+  color: var(--color-secondary); /* Vert Arbre */
+}
+
+/* La petite barre de séparation sous la citation */
+.wnp-content-divider {
+  width: 50px;
+  height: 3px;
+  background-color: var(--color-primary); /* Bleu */
+  margin: 15px 0;
+}
+
+/* Le numéro de la slide sur l'image */
+.wnp-slide-number {
+  background-color: var(--color-secondary); /* Vert */
+  color: var(--color-white);
+  padding: 5px 10px;
+  font-family: var(--font-secondary);
+}
+
+/* Les boutons de navigation (Précédent/Suivant) */
+.wnp-nav-btn {
+  background-color: var(--color-white);
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+  transition: 0.3s;
+}
+
+.wnp-nav-btn:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+}
+
+/* Les points (dots) de navigation */
+.wnp-dot.active {
+  background-color: var(--color-primary) !important;
 }
